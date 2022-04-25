@@ -1,2 +1,2 @@
 # HackerRank-Solved
-Semangat belajarnya!
+A collection of solutions to problems in HackerRank
